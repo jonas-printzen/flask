@@ -1,4 +1,4 @@
-# A simple flaks on alpine cimage
+# A simple Flask on alpine image
 
 ## Usage
 
